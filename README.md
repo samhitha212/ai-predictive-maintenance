@@ -223,3 +223,4 @@ The manually supplied risk in this integrity-only example is not a model evaluat
 Future work, not implemented in this prototype: authenticated telemetry ingestion, durable append-only storage, signed machine events, externally anchored ledger checkpoints, multi-node consensus, recorded model versions, calibrated probabilities, temporal evaluation on real failures, alert deduplication, monitoring, and access-controlled deployment.
 
 This prototype demonstrates the complete local integration path without claiming production readiness or real-world failure-prediction performance.
+
